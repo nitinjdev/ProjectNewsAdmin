@@ -12,6 +12,8 @@ mongodb
 npm install
 npm start (or npm run dev)
 
+start media-admin app at localhost:9900
+
 # register or login
 
 1. register account
