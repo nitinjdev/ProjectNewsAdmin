@@ -17,7 +17,7 @@ npm start (or npm run dev)
 1. register account
 2. login
 
-# add/edit news will validate user via JWT (Jason Web Token) 
+# add/edit news
 
 1. click NewsForm to add news
 2. click EditNews to edit/delete news
